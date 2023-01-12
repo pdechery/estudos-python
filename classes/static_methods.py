@@ -24,14 +24,18 @@ if __name__ == "__main__":
 
     car = Car("blue", 1000)
 
+    # método de instância (objeto criado, recebe self como parâmetro)
     car.print_color()
 
+    # método da classe sendo chamado do objeto
     car.print_units()
 
-    # car.print_hello()
+    # método da classe estático (não passa classe como parâmetro)
+    car.print_hello()
 
-    # Car.print_color(car);
+    # se quero chamar um método de instância direto da classe preciso passar um objeto
+    Car.print_color(car);
 
-    # Car.print_units();
+    Car.print_units();
 
-    # Car.print_hello()
+    Car.print_hello()
