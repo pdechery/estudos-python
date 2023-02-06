@@ -16,7 +16,7 @@ The asyncio package allows concurrency in a single-thread, using coroutines.
 
 Generator functions are a special kind of function that returns an iterator.
 
-They use "yeld" instead of "return" and it's possible to use them in a for loop.
+They use "yeld" instead of "return" and it's possible to use them in a for loop, for example.
 
 Since they don't load everything into memory at once, but instead only when iterated over, they can be named "lazy iterators".
 
@@ -36,27 +36,27 @@ setup.py script can be used to create Wheels or Source Distributions.
 
 ## Context Managers
 
-Context Managers are objects that implement __enter__ and __exit__ special methods.
+Context Managers are objects that implement `__enter__` and `__exit__` special methods.
 
-They're used in situations where you need a Setup and Teardown events while acting on some resource.
+They're used in situations where you need a "setup" and "teardown" events while acting on some resource.
 
 They're used mostly in situations where you need to release memory after some processing. Ex. Working with files.
 
-You must use the with statement to work with Context Managers.
+You must use the `with` statement to work with Context Managers.
 
 ## Iterators
 
 - Iterators are objects that can be iterated over.
 
-- Python obtains iterators from iterables. (see iter() built-in function)
+- Python obtains iterators from iterables. (see `iter()` built-in function)
 
 - "Iterable" is any object which returns an Iterator.
 
-Iterators interface consists of two methods: __next__ and __iter__.
+Iterators interface consists of two methods: `__next__` and `__iter__`.
 
-Python can iterate over any sequence that implements the __iter__ special method. (__getitem__ also, but it's old)
+Python can iterate over any sequence that implements the `__iter__` special method. (or `__getitem__`)
 
-Iterators can be created by using iter() built-in function.
+Iterators can be created by using `iter()` built-in function.
 
 ## Variable Scope
 
@@ -64,14 +64,14 @@ Python has Local and Global scope, among others (see below)
 
 Local refers to the code block (ex: function) where the variable was declared
 
-Global refers to the whole module (top-level scope). Can be looked using dir()
+Global refers to the whole module (top-level scope). Can be looked using `dir()`
 
 "LEGB" is the rule by which Python resolves names.
 
-	Local 		= code block scope
-	Enclosing 	= nested functions (Python can have functions inside other functions)
-	Global		= module scope
-	Built-in 	= automatically loaded by Python once script is runned. Contains all built-in names.
+- Local = code block scope
+- Enclosing = nested functions (Python can have functions inside other functions)
+- Global = module scope
+- Built-in = automatically loaded by Python once script is runned. Contains all built-in names.
 
 "global" statament can be used to change global names inside local scope
 
@@ -81,18 +81,19 @@ Special methods that user double underscores around their names (that's where "d
 
 Example:
 
-__len__ method in a class defines behaviour of len() built-in function in an instance from that class.
+`__len__` method in a class defines behaviour of `len()` built-in function in an instance from that class.
 
-__add__ method in a class defines behaviour of the + operator in an instance from that class.
+`__add__` method in a class defines behaviour of the + operator in an instance from that class.
 
 To know available dunder methods on a specific object one can do:
 
+```
 >>> x = 2
 >>> help(x)
 
 >>> z = {'nome':'Pierre','sobrenome':'Dechery'}
 >>> help(z)
-
+```
 
 Those methods are not supposed to be called directly. One should use the high-level built-in functions or operators instead.
 
@@ -123,7 +124,7 @@ dict keys must be hashable (they can be anything that's hashable)
 
 An object is hashable when it has a "hash" value that does not change during its lifetime.
 
-To obtain a hash, the __hash__ is used.
+To obtain a hash, the `__hash__` is used.
 
 Hashes must be comparable to any other objects throught the "==" operator.
 
