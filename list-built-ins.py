@@ -13,13 +13,13 @@ z => Step
 lst[:2]
 # [1,2] 
 
-# Se y não ultrapassar o maior index, retorna o ultimo
+# Se y ultrapassar o maior index, retorna o ultimo
 lst[:8]
 # [1,2,-5,4]
 
 # Map
 
-def square(num):
+def square(x):
 	return x * x
 
 map(square, lst)

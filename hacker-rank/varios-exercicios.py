@@ -5,8 +5,6 @@ def find_twice_char(word):
     '''
 
     for i,v in enumerate(word):
-        # fazer debug no modo interativo
-        breakpoint()
         if i < len(word)-1:
             if v == word[i+1]:
                 return True
