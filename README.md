@@ -101,9 +101,9 @@ When one uses a Dunder method to leverage some operator in Python that's called 
 
 ## Unpacking with asterisk
 
-* and ** can be used on a function signature to enable that function to receive arguments that aren't part of its original signature.
+`*` and `**` can be used on a function signature to enable that function to receive arguments that aren't part of its original signature.
 
-* is for position arguments, who'll be made available as a tuple, and ** is for keyword arguments, who will be made availabe as dict inside the function.
+`*` is for position arguments, who'll be made available as a tuple, and `**` is for keyword arguments, who will be made availabe as dict inside the function.
 
 Example:
 
