@@ -1,6 +1,6 @@
-# Helper Python
+# Python Helper 
 
-## Inspecionar objetos
+## Inspecting objects
 
 **vars()**
 
@@ -29,7 +29,7 @@ Retorna tipo do objeto
 
 Return a string containing a printable representation of an object. 
 
-## Definições
+## Definitions
 
 **module**
 

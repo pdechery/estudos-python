@@ -140,9 +140,11 @@ To compare raw values the "==" operator must be used, while to compare identity 
 
 Example:
 
+```
 a = 2
-b = a ("b" is now reference to "a", that means they are the same object)
-c = 2 ("c" have the same value as "a" but it's not a reference to it)
+b = a # "b" is now reference to "a", that means they are the same object
+c = 2 # "c" have the same value as "a" but it's not a reference to it
+```
 
 ## Function parameters by reference or value
 

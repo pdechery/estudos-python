@@ -63,6 +63,9 @@ any(lst)
 
 any(0, 0, False)
 
+# All
+# @todo
+
 # Sort
 
 animals = ['cat','dog', 'cheetah','rhino']

@@ -10,6 +10,8 @@ def divideThis(num1,num2):
 		print(f'Error Code: {e.args[0]}')
 	except ZeroDivisionError as e:
 		print(f'Error Code: {e.args[0]}')
+	finally:
+		print("Estou felis")
 
 if __name__ == '__main__':
 	
