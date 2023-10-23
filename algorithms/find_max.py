@@ -28,17 +28,35 @@ def find_max(dataset):
 	val1 = dataset[0]
 	val2 = find_max(dataset[1:])
 
-	print(f'val1 {val1}')
-	print(f'val2 {val2}')
+	#print(f'val1 {val1}')
+	#print(f'val2 {val2}')
 
 	if val1 > val2:
 		result = val1
 	else:
 		result = val2
 
-	print(f'Will return {result}')
+	#print(f'Will return {result}')
 
 	return result
+
+
+def find_max(dataset):
+	print(f'dataset {dataset}')
+	# store max value from each iteration
+	res = 0 
+	for i in range(0, len(dataset)-1, 2):
+		print(f'index {i}')
+		val1, val2 = dataset[i], dataset[i+1]
+		print(f'val1 {val1}')
+		print(f'val2 {val2}')
+		if val1 > res:
+			res = val1
+		if val2 > res:
+			res = val2
+
+	return res
+
 
 if __name__ == '__main__':
 	

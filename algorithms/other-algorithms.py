@@ -1,5 +1,5 @@
 # Using Hash Tables (dict) to process lists.
-# Remember dicts doesn't allow duplicate keys so we can take advantage on that.
+# Remember dicts doesn't allow duplicate keys so we can take advantage of that.
 
 fruits = ["orange","apple","orange","pea","cashew"]
 
