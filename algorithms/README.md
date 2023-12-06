@@ -20,4 +20,4 @@ Like having nested loops.
 
 ## Exponential Time Complexity - O(2^n)
 
-Wen the growth rate doubles with each addition to the input (n). Example: Fibonacci (ver recursion.py)
+When the growth rate doubles with each addition to the input (n). Example: Fibonacci (ver recursion.py)
