@@ -172,7 +172,7 @@ Languages who have functions are "first-class" citizens are those where function
 
 Python doesn't offer a mechanism to create private methods, but offers the "name mangling" mechanism.
 
-If you name your attrite with two leading underscores it will have it's name transformed, so it won't be possible for a subclass to use it.
+If you name your attribute with two leading underscores it will have it's name transformed, so it won't be possible for a subclass to use it.
 
 To create a private method on Python there's also a convention to use a single underscore before it's name.
 
@@ -190,12 +190,6 @@ The FrenchDeck class can act like an iterable and a dict, because it implements 
 
 It doesn't need to inherit from any dict or iterable interface to be recognized and work as a dict or iterable.
 
-
-
-
-
-
-	
 
 
 
