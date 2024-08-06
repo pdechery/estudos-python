@@ -1,8 +1,6 @@
 # Implement a merge sort with recursion
 
 
-items = [6, 20, 8, 19, 56, 23, 87, 41, 49, 53]
-
 def merge_sort_recursion(arr):
 
     if len(arr) > 1:
@@ -26,28 +24,41 @@ def merge_sort_recursion(arr):
             k += 1
 
 
-def merge_sort_two_arrays(arr1, arr2):
+def merge_sort_two_arrays(l_arr, r_arr):
     
     # create indexes
-    i = j = k = 0
-    b = ['a','a','a','a','a']
+    l = r = k = 0
+    res = list()
 
-    while i < len(arr1) and j < len(arr2):
-        if arr1[i] < arr2[j]:
-            b[k] = arr1[i]
-            i += 1
+    while l < len(l_arr) and r < len(r_arr):
+        if l_arr[l] < r_arr[r]:
+            res.insert(k, l_arr[l]) 
+            l += 1
         else:
-            b[k] = arr2[j]
-            j += 1
+            res.insert(k, r_arr[r]) 
+            r += 1
         k += 1
 
-    return b
+    while l < len(l_arr):
+        res.insert(k, l_arr[l])
+        k += 1
+        l += 1
+
+    while r < len(r_arr):
+        res.insert(k, r_arr[r]) 
+        k += 1
+        r += 1
+
+    return res
 
 
 if __name__ == '__main__':
+
+    #items = [6, 20, 8, 19, 56, 23, 87, 41, 49, 53]
+    items = [3,8,2,1,15]
     
     #print(items)
-    #merge_sort_recursion(items)
-    res = merge_sort_two_arrays([3,8],[2,1])
-    print(res)
+    merge_sort_recursion(items)
+    #res = merge_sort_two_arrays([3,8],[2,1])
+    #print(res)
     #print(items)

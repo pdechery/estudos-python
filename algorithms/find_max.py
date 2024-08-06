@@ -1,6 +1,6 @@
 # find max
 
-def find_max(dataset):
+def find_max_recursive(dataset):
 	'''
 	O uso da função recursiva aqui vai decrementar o dataset a cada chamada.
 	Isto porque o Call Stack preserva o contexto de cada execução. 
@@ -26,9 +26,9 @@ def find_max(dataset):
 		return dataset[0]
 	
 	val1 = dataset[0]
-	val2 = find_max(dataset[1:])
+	val2 = find_max_recursive(dataset[1:])
 
-	#print(f'val1 {val1}')
+	print(f'val1 {val1}')
 	#print(f'val2 {val2}')
 
 	if val1 > val2:
@@ -41,7 +41,7 @@ def find_max(dataset):
 	return result
 
 
-def find_max(dataset):
+def find_max_loop(dataset):
 	print(f'dataset {dataset}')
 	# store max value from each iteration
 	res = 0 
@@ -61,4 +61,4 @@ def find_max(dataset):
 if __name__ == '__main__':
 	
 	values = [-1,0,12,3,2,5]
-	print(find_max(values))
+	print(find_max_recursive(values))
