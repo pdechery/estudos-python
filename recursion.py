@@ -38,60 +38,6 @@ def getSum(n):
   return n + getSum(n - 1)
 
 
-"""
-  Example with two consecutive recursive calls with instructions after calls
-
-  Original dataset is [20, 6, 8, 19]
-
-  At first it'll be divided in half and this line will run:
-
-  recursiveExample(l_arr)
-
-  This call will recursively be fed with this data:
-
-  [20, 6]
-
-  [20]
-
-  As seen, only left side arrays so far (l_arr)
-
-  When the parameter is [20] there'll be no more recursive call because of "len(dataset) > 1" rule.
-
-  That means the function will be free to run next line. So it'll run -> recursiveExample(r_arr). 
-
-  This time r_arr should be [6].
-
-  Again no recursive calls, since len([6]) == 1. 
-
-  At that point recursive calls are exhausted. The Call Stack will begin processing the stored 
-  function calls in reverse order. That means [20,6] will be processed.
-
-  We aren't doing anything so the function will complete its execution. But everything will start over again because of the next line: recursiveExample(r_arr)
-
-  Now dataset is [8, 19].
-
-  Same process will happen. [8,19] and then [8]
-
-  After processing the recursive calls the callstack will pop the original call with [20, 6, 8, 19]
-
-"""
-def recursiveCompositionExample(dataset):
-  print(f'this is the given data {dataset}')
-
-  if len(dataset) > 1:
-    print('started working (condition passed)')
-    mid = len(dataset) // 2
-    l_arr = dataset[:mid]
-    r_arr = dataset[mid:]
-
-    recursiveExample(l_arr)
-    print('done with left side')
-    recursiveExample(r_arr)
-    print('done with right side')
-
-    print(f'this is the final data after recursive calls {dataset}')
-
-
 def is_palindrome(word):
   """Return True if word is a palindrome, False if not."""
   if len(word) <= 1:
