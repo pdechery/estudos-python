@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"m",
+				"merge_sort"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"r",
+				"right_side"
+			],
+			[
+				"lef",
+				"left_side"
+			],
+			[
+				"ri",
+				"right_side"
+			],
+			[
+				"mer",
+				"merge_sorted"
+			],
+			[
+				"l",
+				"left_side"
+			],
+			[
+				"merge",
+				"merge_sorted"
+			],
+			[
+				"Su",
+				"Solution"
+			],
+			[
+				"b",
+				"bubble_sort"
+			],
+			[
+				"re",
+				"recursive_math"
+			],
+			[
+				"e",
+				"equal_neighbors"
+			],
+			[
+				"find",
+				"find_index"
+			],
+			[
+				"ser",
+				"servicePort"
+			],
+			[
+				"rep",
+				"reprlib"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"fu",
+				"futures"
+			],
+			[
+				"dow",
+				"download_one"
+			],
+			[
+				"w",
+				"workers"
+			],
+			[
+				"d",
+				"download_many"
+			],
+			[
+				"po",
+				"POP20_CC"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"admini",
+				"administracao"
+			],
+			[
+				"APP",
+				"CODEBUDDY_APP_TOKEN"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"content",
+				"contentAll"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"flex-",
+				"flex-basis"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"dat",
+				"data_gravacao"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"o",
+				"offsetTop"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"song",
+				"songdiv"
+			],
+			[
+				"con",
+				"contentAll"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"id",
+				"tileId"
+			],
+			[
+				"t",
+				"tileId"
+			],
+			[
+				"form",
+				"formData"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/pdechery/Dev/estudos-python/doctest.py",
+			"settings":
+			{
+				"buffer_size": 324,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pdechery/Dev/estudos-python/algorithms/binary-search.py",
+		"/home/pdechery/Dev/estudos-python/algorithms/find_max.py",
+		"/home/pdechery/Dev/estudos-python/estudos-python.sublime-project",
+		"/home/pdechery/Dev/inclusion-coding-test/question-1-and-2.py",
+		"/home/pdechery/Dev/inclusion-coding-test/question-5.py",
+		"/home/pdechery/Dev/inclusion-coding-test/question-4.py",
+		"/home/pdechery/Dev/inclusion-coding-test/question-3.py",
+		"/home/pdechery/Dev/inclusion-coding-test/baseclass.py",
+		"/home/pdechery/Dev/inclusion-coding-test/dataset.json",
+		"/home/pdechery/Dev/aws-serverless-project/serverless.yml",
+		"/home/pdechery/Dev/aws-serverless-project/.serverless/cloudformation-template-update-stack.json",
+		"/home/pdechery/Music/PARAPARA/instant.xml",
+		"/home/pdechery/Music/PARAPARA/PARAPARA.ardour",
+		"/home/pdechery/Dev/aws-serverless-project/consumer.py",
+		"/home/pdechery/Dev/aws-serverless-project/producer.py",
+		"/home/pdechery/Dev/aws-serverless-project/docker-compose.yml",
+		"/home/pdechery/Dev/aws-serverless-project/aws-payload-examples/event-sqs-batch.json",
+		"/home/pdechery/Dev/aws-serverless-project/aws-payload-examples/event-sqs.json",
+		"/home/pdechery/Dev/aws-serverless-project/Dockerfile",
+		"/home/pdechery/Dev/aws-serverless-project/.serverless/requirements.txt",
+		"/home/pdechery/Dev/aws-serverless-project/.serverless/cloudformation-template-create-stack.json",
+		"/home/pdechery/Dev/aws-serverless-project/package.json",
+		"/home/pdechery/Dev/speekr/speekr/views/Follow.py",
+		"/home/pdechery/Dev/speekr/speekr/views/Posts.py",
+		"/home/pdechery/Dev/speekr/speekr/views/Pages.py",
+		"/home/pdechery/Dev/speekr/speekr/urls.py",
+		"/home/pdechery/Dev/speekr/speekr/templates/profile.html",
+		"/home/pdechery/Dev/speekr/requirements.txt",
+		"/home/pdechery/Dev/speekr/speekr/templates/home.html",
+		"/home/pdechery/Dev/speekr/speekr.sublime-project",
+		"/home/pdechery/Dev/speekr/speekr/views/Users.py",
+		"/home/pdechery/Dev/speekr/speekr/fixtures/users_and_posts.json",
+		"/home/pdechery/Dev/speekr/manage.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar/templates/mundolunar/home_page.html",
+		"/home/pdechery/Dev/mundolunar/README.md",
+		"/home/pdechery/Dev/mundolunar/.gitignore",
+		"/home/pdechery/Dev/mundolunar/mundolunar/models.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar_proj/settings/dev.py",
+		"/home/pdechery/Dev/mundolunar/.env",
+		"/home/pdechery/Dev/mundolunar/mundolunar_proj/settings/base.py",
+		"/home/pdechery/Dev/mundolunar/requirements.txt",
+		"/home/pdechery/Dev/mundolunar/mundolunar/urls.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar_proj/urls.py",
+		"/home/pdechery/Dev/mundolunar/manage.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar/views.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar/migrations/0001_initial.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar/migrations/0002_alter_songpage_options_songpage_song_id_and_more.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar_proj/settings/production.py",
+		"/home/pdechery/Dev/mundolunar/.kinghost",
+		"/home/pdechery/Dev/mundolunar/docker-compose.yml",
+		"/home/pdechery/Dev/mundolunar/package.json",
+		"/home/pdechery/Dev/decheryweb/docker-compose.yml",
+		"/home/pdechery/Dev/mundolunar/mundolunar/static/build/less/main.less",
+		"/home/pdechery/Dev/mundolunar/mundolunar/static/css/main.css",
+		"/home/pdechery/Dev/mundolunar/Dockerfile",
+		"/home/pdechery/Dev/mundolunar/django-commands.sh",
+		"/home/pdechery/Dev/mundolunar/mundolunar/admin.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar/apps.py",
+		"/home/pdechery/Dev/Linkedin Training/3 Recursion/recursion_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/2 Data Structures/LinkedList/linklist_finished.py",
+		"/home/pdechery/Dev/mundolunar/mundolunar.sublime-project",
+		"/home/pdechery/Dev/senhas-mundolunar",
+		"/home/pdechery/Dev/mundolunar/mundolunar_proj/wsgi.py",
+		"/home/pdechery/Dev/mundolunar/runtime.txt",
+		"/home/pdechery/Dev/mundolunar/pg-dumps/mundolunar_2022-02-21",
+		"/home/pdechery/Dev/wastenot-challenge-20231127T181103Z-001/wastenot-challenge/javascript/static/js/wastenot_products.js",
+		"/home/pdechery/Dev/wastenot-challenge-20231127T181103Z-001/wastenot-challenge/javascript/index.html",
+		"/home/pdechery/Dev/wastenot-challenge-20231127T181103Z-001/wastenot-challenge/python/counter.py",
+		"/home/pdechery/Dev/wastenot-challenge/static/js/mock_data.js",
+		"/home/pdechery/Dev/wastenot-challenge/index.html",
+		"/home/pdechery/Dev/wastenot-challenge/static/js/wastenot_products.js",
+		"/home/pdechery/Dev/wastenot-challenge/static/js/data.js",
+		"/home/pdechery/Dev/wastenot-challenge/static/js/data.json",
+		"/home/pdechery/Dev/wastenot-challenge/static/js/products.js",
+		"/home/pdechery/Dev/speekr/speekr/static/js/vue.global.js",
+		"/home/pdechery/Dev/speekr/speekr_proj/urls.py",
+		"/home/pdechery/Dev/speekr/speekr_proj/settings.py",
+		"/home/pdechery/Dev/estudos-python/algorithms/mergesort.py",
+		"/home/pdechery/Dev/estudos-python/hacker-rank/fibonacci.py",
+		"/home/pdechery/Dev/estudos-python/exercicios_variados.py",
+		"/home/pdechery/Dev/estudos-python/algorithms/quicksort.py",
+		"/home/pdechery/Dev/estudos-python/algorithms/other-algorithms.py",
+		"/home/pdechery/Dev/estudos-python/decorators.py",
+		"/home/pdechery/Dev/estudos-python/recursion.py",
+		"/home/pdechery/Dev/interview-js.js",
+		"/home/pdechery/Dev/javascript-class-test.js",
+		"/home/pdechery/Dev/posterr/fasterr.sublime-project",
+		"/home/pdechery/Dev/posterr/posterr/views/Pages.py",
+		"/home/pdechery/Dev/posterr/posterr/views/Posts.py",
+		"/home/pdechery/Dev/posterr/posterr/templates/profile.html",
+		"/home/pdechery/Dev/posterr/posterr/fixtures/users_and_posts.json",
+		"/home/pdechery/Dev/posterr/posterr/tests/posts.py",
+		"/home/pdechery/Dev/posterr/posterr/utils/exception_handler.py",
+		"/home/pdechery/Dev/python-cache-schedule-project/client2.py",
+		"/home/pdechery/Dev/python-cache-schedule-project/client.py",
+		"/home/pdechery/Dev/python-cache-schedule-project/cache.py",
+		"/home/pdechery/Dev/Linkedin Training/1 Introduction/gcd_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/2 Data Structures/Hash Table/hashtable_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/3 Recursion/recursion_start.py",
+		"/home/pdechery/Dev/Linkedin Training/3 Recursion/countdown_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/1 Introduction/gcd_start.py",
+		"/home/pdechery/Dev/Linkedin Training/4 Sorting/BubbleSort/bubble_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/3 Recursion/countdown_start.py",
+		"/home/pdechery/Dev/Linkedin Training/4 Sorting/MergeSort/mergesort_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/2 Data Structures/Stacks/stack_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/2 Data Structures/Queues/queue_finished.py",
+		"/home/pdechery/Dev/Linkedin Training/4 Sorting/BubbleSort/bubble_start.py",
+		"/home/pdechery/Dev/Linkedin Training/2 Data Structures/Hash Table/hashtable_start.py",
+		"/home/pdechery/Dev/kubernetes-training/create-pod.yml",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01MAR2022_31MAR2022.csv",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01ABR2022_30ABR2022.csv",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01MAI2022_31MAI2022.csv",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01JUN2022_30JUN2022.csv",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01JUL2022_31JUL2022.csv",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01AGO2022_23AGO2022.csv",
+		"/home/pdechery/Dev/kubernetes-training/create-pods.yml",
+		"/home/pdechery/Dev/kubernetes-training/create-service.yml",
+		"/home/pdechery/Dev/kubernetes-training/create-ingress.yml",
+		"/home/pdechery/Documents/Financeiro/Nubank/NU_136992716_01FEV2022_28FEV2022.csv",
+		"/home/pdechery/Dev/kubernetes-training/README.md",
+		"/home/pdechery/Dev/kubernetes-training/Dockerfile",
+		"/home/pdechery/Dev/kubernetes-training/create-pod-alpine.yml",
+		"/home/pdechery/Dev/kubernetes-training/Dockerfile.alpine",
+		"/home/pdechery/Dev/kubernetes-training/donothing.sh",
+		"/home/pdechery/Dev/kubernetes-training/app.py",
+		"/home/pdechery/Dev/scripts/aws_build.sh",
+		"/home/pdechery/Dev/kubernetes-training/manifest.yml",
+		"/home/pdechery/Dev/estudos-python/fluent-python/ch_14_iterators/sentence.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"find_max_recursive",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/pdechery/Dev/estudos-python/doctest.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 230.0
+	},
+	"pinned_build_system": "",
+	"project": "estudos-python.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"url",
+				"mundolunar/urls.py"
+			],
+			[
+				"index",
+				"js/index.js"
+			],
+			[
+				"index.",
+				"js/index.js"
+			],
+			[
+				"decher",
+				"style/less/decheryweb.less"
+			],
+			[
+				"NOT_F",
+				"learn/templates/essenciais/NOT_FOUND.html"
+			],
+			[
+				"LoginVi",
+				"central/views/LoginViews.py"
+			],
+			[
+				"settings",
+				"CBCentral/settings_local.py"
+			],
+			[
+				"base",
+				"central/templates/administracao/base.html"
+			],
+			[
+				"funcoes_mapa.js",
+				"central/static/js/funcoes_mapa.js"
+			],
+			[
+				"mapa.html",
+				"learn/templates/mapa/mapa.html"
+			],
+			[
+				"funcoes_m",
+				"central/static/js/funcoes_mapa.js"
+			],
+			[
+				"editar-mapa",
+				"central/templates/administracao/pedagogico/conteudo/editar/editar-mapa.html"
+			],
+			[
+				"finders.",
+				"venv/lib/python3.8/site-packages/npm/finders.py"
+			],
+			[
+				"collectstatic.py",
+				"venv/lib/python3.8/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py"
+			],
+			[
+				"wsgy",
+				"mundolunar_proj/wsgi.py"
+			],
+			[
+				"production",
+				"mundolunar_proj/settings/production.py"
+			],
+			[
+				"home",
+				"blog/templates/blog/home_page.html"
+			],
+			[
+				"models",
+				"blog/models.py"
+			],
+			[
+				"produ",
+				"mundolunar/settings/production.py"
+			],
+			[
+				"main",
+				"blog/static/build/less/main.less"
+			],
+			[
+				"du",
+				"dump"
+			],
+			[
+				"dump",
+				"dump"
+			],
+			[
+				"nav",
+				"blog/static/js/navigation.js"
+			],
+			[
+				"views",
+				"blog/views.py"
+			],
+			[
+				"MO",
+				"blog/models.py"
+			],
+			[
+				"fetch",
+				"blog/static/js/fetch_songs.js"
+			],
+			[
+				"main.less",
+				"blog/static/build/less/main.less"
+			],
+			[
+				"view",
+				"blog/views.py"
+			],
+			[
+				"dev",
+				"mundolunar/settings/dev.py"
+			],
+			[
+				"wsg",
+				"mundolunar/wsgi.py"
+			],
+			[
+				"vie",
+				"blog/views.py"
+			],
+			[
+				"navigation",
+				"blog/static/js/navigation.js"
+			],
+			[
+				"ValidarViews",
+				"central/views/ValidarViews.py"
+			],
+			[
+				"ConteudoViews",
+				"central/views/ConteudoViews.py"
+			],
+			[
+				"hub-",
+				"learn/templates/hub/lead/hub-lead.html"
+			],
+			[
+				"read",
+				"_docker/README.MD"
+			],
+			[
+				"",
+				"README.md"
+			],
+			[
+				"new-base",
+				"learn/templates/new-base.html"
+			],
+			[
+				"lead-nav-bar.html",
+				"learn/templates/lead-nav-bar.html"
+			],
+			[
+				"shepherd.css",
+				"learn/static/_vendor/shepherd.css"
+			],
+			[
+				"hub-lead",
+				"learn/templates/hub/lead/hub-lead.html"
+			],
+			[
+				"new-hub",
+				"learn/templates/hub/new-hub.html"
+			],
+			[
+				"mapa-lea",
+				"learn/templates/leads/mapa-lead.html"
+			],
+			[
+				"jobs",
+				"central/jobs.py"
+			],
+			[
+				"ErroV",
+				"central/views/ErroViews.py"
+			],
+			[
+				"conteudo.html",
+				"learn/templates/fase/conteudo.html"
+			],
+			[
+				"toolbox.js",
+				"static/js/p5js/blockly/toolbox.js"
+			],
+			[
+				"blocos.js",
+				"static/js/p5js/blockly/botoes/blocos.js"
+			],
+			[
+				"fase.html",
+				"learn/templates/fase/fase.html"
+			],
+			[
+				"Blo",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"Eggs",
+				"static/js/p5js/blockly/Eggs.js"
+			],
+			[
+				"eggs",
+				"learn/templates/blockly/eggs.html"
+			],
+			[
+				"Blockly",
+				"learn/static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"blockly-fase",
+				"learn/static/js/p5js/blockly/blockly-fase.js"
+			],
+			[
+				"block",
+				"learn/templates/leads/fase/games/blockly.html"
+			],
+			[
+				"new-bas",
+				"learn/templates/new-base.html"
+			],
+			[
+				"editar",
+				"central/templates/administracao/pedagogico/conteudo/editar/editar-blockly.html"
+			],
+			[
+				"BlocklyM",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"editar-tile",
+				"central/templates/administracao/pedagogico/conteudo/editar/editar-tiles.html"
+			],
+			[
+				"Bloc",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"Block",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"BlocklyMai",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"setting",
+				"CBCentral/settings.py"
+			],
+			[
+				"editar-bl",
+				"central/templates/administracao/pedagogico/conteudo/editar/editar-blockly.html"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"toolbox",
+				"learn/static/js/p5js/blockly/toolbox.js"
+			],
+			[
+				"blockly.html",
+				"learn/templates/fase/games/blockly.html"
+			],
+			[
+				"conteudo",
+				"learn/templates/fase/conteudo.html"
+			],
+			[
+				"ew-base.html",
+				"learn/templates/new-base.html"
+			],
+			[
+				"javascript_compressed",
+				"static/js/p5js/blockly/javascript_compressed.js"
+			],
+			[
+				"Personagem",
+				"static/js/p5js/blockly/Personagem.js"
+			],
+			[
+				"BlocklyMain",
+				"static/js/p5js/blockly/BlocklyMain.js"
+			],
+			[
+				"block_worlds",
+				"learn/templates/language_worlds/block_worlds.html"
+			],
+			[
+				"Mundo.py",
+				"learn/models/Mundo.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 85.0,
+		"last_filter": "PostCreate",
+		"selected_items":
+		[
+			[
+				"PostCreate",
+				"PostCreate"
+			],
+			[
+				"personagem",
+				"Personagem"
+			],
+			[
+				"setup",
+				"setup"
+			],
+			[
+				"terren",
+				"terreno_valido"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"monta_terreno",
+				"monta_terreno"
+			],
+			[
+				"bloqueia_licencas",
+				"bloqueia_licencas"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -9,7 +9,8 @@ def outro_decorator(func):
 		# faça coisas aqui
 		print('Estamos felizes aqui também')
 		# Depois executa a função pai
-		func(*args)
+		res = func(*args)
+		return res
 	return qq_nome
 
 def um_decorator(func):
@@ -19,7 +20,8 @@ def um_decorator(func):
 		# faça coisas aqui
 		print('Estamos felizes aqui')
 		# Depois executa a função pai
-		func(*args)
+		res = func(*args)
+		return res
 	return qq_nome
 
 @um_decorator
@@ -31,6 +33,5 @@ def diga_algo(algo):
 
 if __name__ == '__main__':
 	
-	# res = diga_algo('carai')
-
+	res = diga_algo('carai')
 	print(res)
